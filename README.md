@@ -1,1 +1,5 @@
-# bhavesh-kare
+#include<stdio.h>
+void main()
+{
+ print("hello everyone");
+ }
